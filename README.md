@@ -1,4 +1,4 @@
 # For Those Who Never Git
 
-[Commands](commands.md)
+[Commands](commands.md)  
 [SMART goal](smart-goal.md)
