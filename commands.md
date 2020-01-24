@@ -18,10 +18,6 @@ git push
 ```
 
 ## Branching
-### New Branch
-```bash
-git checkout -b <NEW_BRANCH>
-```
 
 ### Switch Branch
 ```bash
