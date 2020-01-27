@@ -59,5 +59,6 @@ git push
 
 ### Pro Tips
 1. Do **NOT** merge your own pull request
+2. Learn rebasing. Get started with it by `git rebase`
 
 fifth branch
